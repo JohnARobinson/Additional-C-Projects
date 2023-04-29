@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627783303 source:c:\users\rex reloaded\documents\c projects\ifcheck\main.c
+	<stdio.h>
+	<stdlib.h>
+
